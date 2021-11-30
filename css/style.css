@@ -1,3 +1,39 @@
 body {
   background-color: aliceblue;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top_container {
+}
+
+.title_left {
+}
+
+.text_title_left {
+}
+
+#title_evsem {
+  text-transform: uppercase;
+}
+
+.menu {
+}
+
+.elements {
+}
+
+.center_container {
+}
+
+.main_text {
+  text-transform: uppercase;
+}
+
+.text_main_center {
+}
+
+#text_forYou {
+}
+
+.image {
 }
