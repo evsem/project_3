@@ -20,24 +20,26 @@ body {
   font-weight: 400;
 }
 
-.text_title_left {
+.text_title_left,
+#title_evsem,
+.menu,
+.elements,
+.text_main_center,
+#text_forYou {
   display: inline;
 }
 
 #title_evsem {
   text-transform: uppercase;
   letter-spacing: 2px;
-  display: inline;
 }
 
 .menu {
   max-width: 600px;
   max-height: auto;
-  display: inline;
 }
 
 .elements {
-  display: inline;
   margin-right: 89px;
   color: #383030;
   font-weight: 500;
@@ -61,19 +63,17 @@ body {
 .main_text {
   max-width: 1400px;
   max-height: auto;
-  font-size: 70px;
+  font-size: 72px;
   font-weight: 400;
   text-transform: uppercase;
-  margin: 382px auto 32px 150px;
+  margin: 382px auto 32px 130px;
 }
 
 .text_main_center {
-  display: inline;
   color: #d7d2d2;
 }
 
 #text_forYou {
-  display: inline;
   color: #1d1a1a;
 }
 
