@@ -1,6 +1,7 @@
 body {
   background: url(../img/main_1.jpg) 0 0 / cover no-repeat;
   font-family: 'Montserrat', sans-serif;
+  min-width: 1500px;
 }
 
 .top_container {
@@ -53,18 +54,31 @@ body {
 }
 
 .center_container {
+  min-width: 1920px;
+  max-height: auto;
 }
 
 .main_text {
+  max-width: 1400px;
+  max-height: auto;
+  font-size: 70px;
+  font-weight: 400;
   text-transform: uppercase;
-  display: flex;
+  margin: 382px auto 32px 150px;
 }
 
 .text_main_center {
+  display: inline;
+  color: #d7d2d2;
 }
 
 #text_forYou {
+  display: inline;
+  color: #1d1a1a;
 }
 
 .image {
+  position: relative;
+  top: -42px;
+  left: 792px;
 }
