@@ -1,0 +1,17 @@
+{
+  "name": "project_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "unit"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "npm"
+  ],
+  "author": "evsem",
+  "license": "ISC"
+}
