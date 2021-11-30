@@ -1,5 +1,5 @@
 body {
-  background: url(../img/main_1.jpg) 0 0 / cover no-repeat;
+  background: url(../img/main_1.jpg) 0 0 / 1920px 1080px no-repeat;
   font-family: 'Montserrat', sans-serif;
   min-width: 1500px;
 }
